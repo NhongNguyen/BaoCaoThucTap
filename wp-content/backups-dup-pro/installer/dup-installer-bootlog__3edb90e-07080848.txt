@@ -1,0 +1,30 @@
+[Dec 7 08:14:09] 
+[Dec 7 08:14:09] ==DUPLICATOR INSTALLER BOOTSTRAP v4.5.12.1==
+[Dec 7 08:14:09] ----------------------------------------------------
+[Dec 7 08:14:09] Installer bootstrap start
+[Dec 7 08:14:09] Target dir dup folder \"C:/laragon/www/rimberio/dup-installer\"
+[Dec 7 08:14:09] Ready to extract the installer
+[Dec 7 08:14:09] Checking permission of destination folder
+[Dec 7 08:14:09] Expand directory from offset 109769455
+[Dec 7 08:14:21] No need to create C:/laragon/www/rimberio/dup-installer/.htaccess or C:/laragon/www/rimberio/dup-installer/.user.ini
+[Dec 7 08:14:21] SAPI: apache2handler
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/addons<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/api<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/assets<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/classes<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/ctrls<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/favicon<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/libs<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/original_files_[HASH]<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/src<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/templates<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/vendor<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/vendor-prefixed<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/dup-archive__[HASH].txt<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/dup-scan__[HASH].json<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/dup-scanned-dirs__[HASH].txt<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/dup-scanned-files__[HASH].txt<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/index.php<br/>
+[Dec 7 08:14:21] Set permissions of C:/laragon/www/rimberio/dup-installer/main.installer.php<br/>
+[Dec 7 08:14:21] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://rimberio.test:8080/dup-installer/main.installer.php
